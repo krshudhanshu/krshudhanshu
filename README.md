@@ -1,7 +1,7 @@
-- 👋 Hi, I’m shudhanshu kumar
-- 👀 I’m interested in programming
+- 👋 Hi, I’m SHUDHANSHU KUMAR
+- 👀 I’m interested in Web Development & App Development 
 - 🌱 I’m currently learning C++ & D.S
-- 💞️ I’m looking to collaborate on programming quiz
+- 💞️ I’m looking to collaborate on Projects 
 - 📫 How to reach me krshudhanshu87@gmail.com
 
 <!---

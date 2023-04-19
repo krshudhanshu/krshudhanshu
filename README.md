@@ -1,6 +1,6 @@
 - 👋 Hi, I’m shudhanshu kumar
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning H.L language 
+- 🌱 I’m currently learning C++ & D.S
 - 💞️ I’m looking to collaborate on programming quiz
 - 📫 How to reach me krshudhanshu87@gmail.com
 
